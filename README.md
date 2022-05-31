@@ -18,11 +18,9 @@ Here are some ideas to get you started:
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
-![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
 
 
-          
+[![Vikash's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=cyber_security&theme=dark)](https://github.com/cyber_security/leetcode-stats)          
           
 
 ![Vikash's GitHub stats](https://github-readme-stats.vercel.app/api?username=its-cybersecurity&outrun&show_icons=true)
