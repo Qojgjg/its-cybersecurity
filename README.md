@@ -34,8 +34,6 @@ Here are some ideas to get you started:
 
 [![GitHub contributors](https://img.shields.io/github/contributors/Naereen/badges.svg)](https://GitHub.com/Naereen/badges/graphs/contributors/)
 
-[![HitCount](http://hits.dwyl.io/its-cybersecurity/badges.svg)](http://hits.dwyl.io/its-cybersecurity/badges)
-
 [![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=its-cybersecurity&row=1)](https://github.com/its-cybersecurity/github-profile-trophy)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=its-cybersecurity&theme=blue-green)](https://github.com/its-cybersecurity/github-readme-stats)
