@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 [![GitHub followers](https://img.shields.io/github/followers/its-cybersecurity.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/its-cybersecurity?tab=followers)
 
-[![GitHub contributors](https://img.shields.io/github/contributors/Naereen/badges.svg)](https://GitHub.com/Naereen/badges/graphs/contributors/)
+[![GitHub contributors](https://img.shields.io/github/contributors/ its-cybersecurity/badges.svg)](https://GitHub.com/its-cybersecurity/badges/graphs/contributors/)
 
 [![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=its-cybersecurity&row=1)](https://github.com/its-cybersecurity/github-profile-trophy)
 
