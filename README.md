@@ -14,6 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00A114&lines=Hi%2C+This+is+Vikash+Patel.)](https://git.io/typing-svg)
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+
+
+          
+          
 
 ![Vikash's GitHub stats](https://github-readme-stats.vercel.app/api?username=its-cybersecurity&outrun&show_icons=true)
 
