@@ -58,7 +58,7 @@ https://www.codingninjas.com/codestudio/profile/fc2555a1-1b59-47ab-9f37-2f32c5a7
 
 [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=its-cybersecurity&theme=blue-green)](https://github.com/its-cybersecurity/github-readme-stats)
 
-
+<!--
 
 
 <a href="https://moon-svg.minung.dev">
@@ -182,7 +182,7 @@ https://www.codingninjas.com/codestudio/profile/fc2555a1-1b59-47ab-9f37-2f32c5a7
 ![Windows 95](https://img.shields.io/badge/Windows%2095-008484?style=for-the-badge&logo=windows95&logoColor=white)
 ![Windows XP](https://img.shields.io/badge/Windows%20xp-003399?style=for-the-badge&logo=windowsxp&logoColor=white)
 
-
+-->
 
 [![Cybersec StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/16875773)](https://stackoverflow.com/users/16875773/cybersec)
 
